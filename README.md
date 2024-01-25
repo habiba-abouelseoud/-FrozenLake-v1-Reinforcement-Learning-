@@ -1,4 +1,4 @@
-# -FrozenLake-v1-Reinforcement-Learning-
+# Gym-based FrozenLake-v1 Reinforcement Learning Project
 
 
 ## Overview
